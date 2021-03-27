@@ -14,9 +14,17 @@ class WelcomeController
         require 'views/welcome.php';
     }
 
-    public function home()
+    public function login()
     {
-    	require 'views/layout.php';
-    	require 'views/home.php';  
+    	require 'views/login.php';  
+    }
+    public function Registro(){
+        require 'views/Registro.php';
+
+    }
+    public function ingreso(){
+        require 'views/layout.php';
+        require 'views/empleados/list.php';
+
     }
 }

@@ -5,7 +5,7 @@ class Database extends PDO
 	//Definición de Atributos de la Clase
 	private $driver		= 'mysql';
 	private $host		= 'localhost';
-	private $dbName		= 'torneo';
+	private $dbName		= 'phpdb';
 	private $charset	= 'utf8';
 	private $user		= 'root';
 	private $password	= '';
