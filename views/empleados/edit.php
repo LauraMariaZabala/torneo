@@ -1,12 +1,12 @@
 <main class="container">
 	<section class="col-md-12 text-center my-4">
-		<h1>Edit empleado</h1>
+		<h1>Edit user</h1>
 	</section>
 	<section class="row mt-2">
 		<!-- Test Line Comment -->
 		<div class="card w-50 m-auto">
 			<div class="card-header container">
-				<h2>Información Empleado</h2>
+				<h2>Info user</h2>
 			</div>
 
 			<div class="card-body w-100">

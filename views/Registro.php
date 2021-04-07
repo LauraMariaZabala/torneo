@@ -97,7 +97,7 @@ p.error {
  
  <?php
  
- include('providers/Database.php');
+ include('providers/config.php');
  session_start();
   
  if (isset($_POST['Registro'])) {
@@ -133,4 +133,4 @@ p.error {
   
  ?>
 </body>
-</htm
+</html>

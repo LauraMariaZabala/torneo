@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>MottoZone</title>
+	<title>Medicos</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
@@ -18,7 +18,7 @@
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav mr-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="?controller=empleados&method=index">Empleados</a>
+						<a class="nav-link" href="?controller=empleados&method=index">User</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="?controller=welcome&method=login">Cerrar Sesión</a>
